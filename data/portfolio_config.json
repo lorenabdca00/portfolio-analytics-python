@@ -1,0 +1,57 @@
+{
+  "NVDA": {
+    "weight": 0.2192,
+    "sector": "Information Technology",
+    "name": "NVIDIA Corp"
+  },
+  "GOOGL": {
+    "weight": 0.1731,
+    "sector": "Communication Services",
+    "name": "Alphabet Inc"
+  },
+  "AMZN": {
+    "weight": 0.1296,
+    "sector": "Consumer Discretionary",
+    "name": "Amazon.com Inc"
+  },
+  "HON": {
+    "weight": 0.1,
+    "sector": "Industrials",
+    "name": "Honeywell International"
+  },
+  "MA": {
+    "weight": 0.1,
+    "sector": "Financials",
+    "name": "Mastercard Inc"
+  },
+  "UNH": {
+    "weight": 0.1,
+    "sector": "Health Care",
+    "name": "UnitedHealth Group"
+  },
+  "BALL": {
+    "weight": 0.05,
+    "sector": "Materials",
+    "name": "Ball Corp"
+  },
+  "NEE": {
+    "weight": 0.05,
+    "sector": "Utilities",
+    "name": "NextEra Energy"
+  },
+  "PG": {
+    "weight": 0.0381,
+    "sector": "Consumer Staples",
+    "name": "Procter & Gamble"
+  },
+  "EQIX": {
+    "weight": 0.02,
+    "sector": "Real Estate",
+    "name": "Equinix Inc"
+  },
+  "SLB": {
+    "weight": 0.02,
+    "sector": "Energy",
+    "name": "Schlumberger Ltd"
+  }
+}
